@@ -1,0 +1,5 @@
+com/flexon/student/studentTest/springboot/Student.class
+com/flexon/student/studentTest/springboot/StudentController.class
+com/flexon/student/studentTest/springboot/StudentDAO.class
+com/flexon/student/studentTest/StudentTestApplication.class
+com/flexon/student/studentTest/springboot/Student$Gender.class
